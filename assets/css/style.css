@@ -5,7 +5,7 @@ body {
 }
 
 a {
-  color: #cda45e;
+  color: #FE9A2E;
 }
 
 a:hover {
@@ -1382,7 +1382,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Chefs
+# `시`의원
 --------------------------------------------------------------*/
 .chefs .member {
   text-align: center;
@@ -1414,7 +1414,7 @@ section {
   font-weight: 700;
   margin-bottom: 2px;
   font-size: 18px;
-  color: #fff;
+  color: #00BFFF;
 }
 
 .chefs .member .member-info-content span {
@@ -1436,7 +1436,7 @@ section {
 
 .chefs .member .social a {
   transition: color 0.3s;
-  color: #fff;
+  color: #FBB72F;
   margin: 0 10px;
   display: inline-block;
 }
