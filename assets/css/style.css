@@ -1286,13 +1286,12 @@ section {
 --------------------------------------------------------------*/
 .gallery .gallery-item {
   overflow: hidden;
-  border-right: 5px solid #454035;
-  border-bottom: 4px solid #454035;
+  border-right: 4px solid #454035;
+  border-bottom: 3px solid #454035;
 }
 
 .gallery .gallery-item img {
   transition: all ease-in-out 0.4s;
-
 }
 
 .gallery .gallery-item:hover img {
